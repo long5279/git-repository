@@ -1,1 +1,2 @@
 readme init
+git study
