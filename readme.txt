@@ -1,2 +1,0 @@
-readme init
-git study
